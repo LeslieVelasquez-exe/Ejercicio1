@@ -1,8 +1,8 @@
-body{
-    margin: 0;
-    padding: 0;
-    background: url(bg2.jpg);   
-    background-size: cover;
-    background-position: 0 0, center;
-    
+body {
+    margin: 100px; /*Margen*/
+    padding: 0px;
+    background: url(info_personal.jpg);
+    background-size: cover; /*El tamaño de la imagen de fondo*/
+    background-position: center; /*La posición de la imagen*/
+    background-attachment: fixed; /*Fija la imagen al hacer scroll*/
 }
